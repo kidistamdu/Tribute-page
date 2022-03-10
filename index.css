@@ -1,0 +1,45 @@
+
+body{
+    color: #333;
+    margin-top: 60px; 
+  }
+  .center {
+      margin: auto;
+      padding: auto;
+      text-align: center;
+    }
+  h1{
+    color: black;
+    text-align: center;
+  }
+  p{
+    text-align: center;
+  }
+  #image {
+      max-width: 70%;
+      height: auto;
+      display: block;
+    
+    }
+  h3{
+    text-align:center;
+    padding-bottom:35px;
+  }
+  ul{
+    text-align: justify;
+  }
+  li {
+      display: list-item;
+      text-align: -webkit-match-parent;
+  }
+  
+  .quote {
+    font-style: italic;
+    margin: 24px;
+    font-size: 1.1em;
+    text-align: center;
+  }
+  .more-info{
+    text-align:center;
+    padding-top:1.3rem;
+  }
